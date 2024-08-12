@@ -11,7 +11,7 @@ const VideoModal = ({ isOpen, onClose }) => {
           >
             &times;
           </button>
-          <iframe className="w-full h-[640px]" src="https://www.youtube.com/embed/bjYjj0dzRfs?si=ruIEgbnKM224KnkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe className="w-full h-[640px]" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           {/* <iframe
             src="https://youtu.be/bjYjj0dzRfs?si=ruIEgbnKM224KnkA"
             title="YouTube video"
